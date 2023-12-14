@@ -1,31 +1,21 @@
-# CodePayCloud ☁️🌐
+<center>
 
-Welcome to [**CodePayCloud**](https://codepay.cloud), the cutting-edge platform where coding meets efficiency and collaboration in the cloud! 🌩️💻
+# CodePay Cloud 💾
+Getting Coders Paid
 
-## Features at CodePayCloud
+</center>
 
-### 📢 Bidding for Code Requests 💼
+<center>
 
-Discover how we revolutionize the handling of code requests at [CodePayCloud Requests](https://codepay.cloud/request).
+| Module              | Function                                    |
+|--------------------|--------------------------------------------|
+| 🏠 [Home](https://codepaycloud.com/)           | Access the main page of Code Pay            |
+| 📝 [Bid on Branch](https://codepaycloud.com/request)              | Bid on a branch for development                               |
+| 🌳 [Workspace](https://codepaycloud.com/workspace)            | Create and manage coding workspaces         |
+| 💬 [Chat](https://codepaycloud.com/chat)     | Communicate with team members or clients  |
+| ⚙️ [Settings](https://codepaycloud.com/settings) | Update your account settings        |
+| 🔑 [Login](https://codepaycloud.com/auth)    | Log in to your account |
+| 🌓 [Theme Toggle](#)    | Switch between light and dark themes |
+| 🐙 [GitHub](https://github.com/CodePayCloud)     | Visit our GitHub page |
 
-- **Open Bidding System**: Post your tasks and watch as top coders bid. 🤝💡
-- **Transparent Pricing**: Choose offers that align with your budget and needs. 💲🎯
-- **Quality Assurance**: Only skilled coders make up our vibrant community. 🏅🌟
-
-### 🧑‍💻 Coder Workspaces 🖥️
-
-Explore our advanced workspaces at [CodePayCloud Workspaces](https://codepay.cloud/workspace).
-
-- **Customizable Environments**: Tailor your coding space just the way you like it. 🛠️🎨
-- **Collaboration Tools**: Share and collaborate in real-time. 👩‍💻🤝👨‍💻
-- **Security and Privacy**: Your code is secured with our stringent protocols. 🔐🛡️
-
-### 🤖 AI-Assisted Code Review Comments 💬
-
-Experience AI-powered code reviews at [CodePayCloud AI Review](https://codepay.cloud/ai-review).
-
-- **Automated Review Suggestions**: Get smart suggestions for code enhancement. 🧠✅
-- **Efficient Bug Detection**: Early detection of potential issues. 🐛🕵️‍♂️
-- **Streamlined Development**: Maximize your creative time. ⏱️🚀
-
-## Getting Started with CodePayCloud
+</center>
