@@ -1,7 +1,7 @@
 <div align="center">
 
 # CodePay Cloud 💾
-A Cloud-Based Code Management Solution
+Getting Coders Paid
 
 <br>
 
