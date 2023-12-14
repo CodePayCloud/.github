@@ -15,7 +15,6 @@ Getting Coders Paid
 | 💬 [Chat](https://codepay.cloud/chat)     | Communicate with team members or clients  |
 | ⚙️ [Settings](https://codepay.cloud/settings) | Update your account settings        |
 | 🔑 [Login](https://codepay.cloud/auth)    | Log in to your account |
-| 🌓 [Theme Toggle](#)    | Switch between light and dark themes |
 | 🐙 [GitHub](https://github.com/CodePayCloud)     | Visit our GitHub page |
 
 </div>
