@@ -1,0 +1,2 @@
+# .github
+Getting Coders Paid
